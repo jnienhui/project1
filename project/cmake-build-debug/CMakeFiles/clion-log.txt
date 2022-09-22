@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code"
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project"
 -- The C compiler identification is GNU 8.1.0
 -- The CXX compiler identification is GNU 8.1.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/Project1_Starter_Code/cmake-build-debug
+-- Build files have been written to: C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/cmake-build-debug

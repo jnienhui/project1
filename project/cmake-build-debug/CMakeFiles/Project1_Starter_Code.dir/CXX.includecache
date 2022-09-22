@@ -1,0 +1,208 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Add.cpp
+Add.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Add.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Add.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonAutomaton.cpp
+ColonAutomaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonAutomaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonAutomaton.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonDashAutomaton.cpp
+ColonDashAutomaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonDashAutomaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonDashAutomaton.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comma.cpp
+Comma.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comma.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comma.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comment.cpp
+Comment.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comment.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comment.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Facts.cpp
+Facts.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Facts.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Facts.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ID.cpp
+ID.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ID.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ID.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Left_Paren.cpp
+Left_Paren.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Left_Paren.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Left_Paren.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.cpp
+Lexer.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+ColonAutomaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonAutomaton.h
+ColonDashAutomaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ColonDashAutomaton.h
+Comma.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comma.h
+Period.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Period.h
+Q_Mark.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Q_Mark.h
+Left_Paren.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Left_Paren.h
+Right_Paren.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Right_Paren.h
+Multiply.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Multiply.h
+Add.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Add.h
+Schemes.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Schemes.h
+Facts.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Facts.h
+Rules.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Rules.h
+Queries.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Queries.h
+ID.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/ID.h
+String.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/String.h
+Comment.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Comment.h
+cctype
+-
+iostream
+-
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+vector
+-
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Multiply.cpp
+Multiply.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Multiply.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Multiply.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Period.cpp
+Period.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Period.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Period.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Q_Mark.cpp
+Q_Mark.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Q_Mark.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Q_Mark.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Queries.cpp
+Queries.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Queries.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Queries.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Right_Paren.cpp
+Right_Paren.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Right_Paren.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Right_Paren.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Rules.cpp
+Rules.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Rules.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Rules.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Schemes.cpp
+Schemes.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Schemes.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Schemes.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/String.cpp
+String.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/String.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/String.h
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+string
+-
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+Lexer.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+

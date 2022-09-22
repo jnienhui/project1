@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code"
+CMAKE_SOURCE_DIR = "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Project1_Starter_Code.dir/depend.make
@@ -68,268 +68,268 @@ include CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.obj: ../ColonAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonAutomaton.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonAutomaton.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonAutomaton.cpp" > CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonAutomaton.cpp" > CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/ColonAutomaton.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonAutomaton.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonAutomaton.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ColonAutomaton.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.obj: ../ColonDashAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonDashAutomaton.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonDashAutomaton.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonDashAutomaton.cpp" > CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonDashAutomaton.cpp" > CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/ColonDashAutomaton.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ColonDashAutomaton.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ColonDashAutomaton.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ColonDashAutomaton.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.obj: ../Lexer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Lexer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Lexer.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Lexer.cpp" > CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Lexer.cpp" > CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Lexer.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Lexer.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Lexer.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/main.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/main.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\main.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\main.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\main.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\main.cpp" > CMakeFiles\Project1_Starter_Code.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\main.cpp" > CMakeFiles\Project1_Starter_Code.dir\main.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\main.cpp" -o CMakeFiles\Project1_Starter_Code.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\main.cpp" -o CMakeFiles\Project1_Starter_Code.dir\main.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Token.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Token.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Token.cpp.obj: ../Token.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Token.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Token.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Token.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Token.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Token.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Token.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Token.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Token.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Token.cpp" > CMakeFiles\Project1_Starter_Code.dir\Token.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Token.cpp" > CMakeFiles\Project1_Starter_Code.dir\Token.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Token.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Token.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Token.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Token.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Token.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Token.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.obj: ../Comma.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comma.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comma.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comma.cpp" > CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comma.cpp" > CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Comma.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comma.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comma.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Comma.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Period.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Period.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Period.cpp.obj: ../Period.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Period.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Period.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Period.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Period.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Period.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Period.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Period.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Period.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Period.cpp" > CMakeFiles\Project1_Starter_Code.dir\Period.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Period.cpp" > CMakeFiles\Project1_Starter_Code.dir\Period.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Period.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Period.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Period.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Period.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Period.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Period.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.obj: ../Q_Mark.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Q_Mark.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Q_Mark.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Q_Mark.cpp" > CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Q_Mark.cpp" > CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Q_Mark.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Q_Mark.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Q_Mark.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Q_Mark.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.obj: ../Left_Paren.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Left_Paren.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Left_Paren.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Left_Paren.cpp" > CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Left_Paren.cpp" > CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Left_Paren.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Left_Paren.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Left_Paren.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Left_Paren.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.obj: ../Right_Paren.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Right_Paren.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Right_Paren.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Right_Paren.cpp" > CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Right_Paren.cpp" > CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Right_Paren.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Right_Paren.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Right_Paren.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Right_Paren.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.obj: ../Multiply.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Multiply.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Multiply.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Multiply.cpp" > CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Multiply.cpp" > CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Multiply.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Multiply.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Multiply.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Multiply.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Add.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Add.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Add.cpp.obj: ../Add.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Add.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Add.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Add.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Add.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Add.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Add.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Add.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Add.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Add.cpp" > CMakeFiles\Project1_Starter_Code.dir\Add.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Add.cpp" > CMakeFiles\Project1_Starter_Code.dir\Add.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Add.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Add.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Add.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Add.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Add.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Add.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.obj: ../Schemes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Schemes.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Schemes.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Schemes.cpp" > CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Schemes.cpp" > CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Schemes.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Schemes.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Schemes.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Schemes.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.obj: ../Queries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Queries.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Queries.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Queries.cpp" > CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Queries.cpp" > CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Queries.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Queries.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Queries.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Queries.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.obj: ../Facts.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Facts.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Facts.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Facts.cpp" > CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Facts.cpp" > CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Facts.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Facts.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Facts.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Facts.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.obj: ../Rules.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Rules.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Rules.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Rules.cpp" > CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Rules.cpp" > CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Rules.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Rules.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Rules.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Rules.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/ID.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/ID.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/ID.cpp.obj: ../ID.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ID.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ID.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ID.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/ID.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\ID.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ID.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/ID.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/ID.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ID.cpp" > CMakeFiles\Project1_Starter_Code.dir\ID.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ID.cpp" > CMakeFiles\Project1_Starter_Code.dir\ID.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/ID.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/ID.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\ID.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ID.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\ID.cpp" -o CMakeFiles\Project1_Starter_Code.dir\ID.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/String.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/String.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/String.cpp.obj: ../String.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/String.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\String.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\String.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/String.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\String.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\String.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/String.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/String.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\String.cpp" > CMakeFiles\Project1_Starter_Code.dir\String.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\String.cpp" > CMakeFiles\Project1_Starter_Code.dir\String.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/String.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/String.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\String.cpp" -o CMakeFiles\Project1_Starter_Code.dir\String.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\String.cpp" -o CMakeFiles\Project1_Starter_Code.dir\String.cpp.s
 
 CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/flags.make
 CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.obj: CMakeFiles/Project1_Starter_Code.dir/includes_CXX.rsp
 CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.obj: ../Comment.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comment.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.obj -c "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comment.cpp"
 
 CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comment.cpp" > CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comment.cpp" > CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.i
 
 CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project1_Starter_Code.dir/Comment.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\Comment.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\Comment.cpp" -o CMakeFiles\Project1_Starter_Code.dir\Comment.cpp.s
 
 # Object files for target Project1_Starter_Code
 Project1_Starter_Code_OBJECTS = \
@@ -379,7 +379,7 @@ Project1_Starter_Code.exe: CMakeFiles/Project1_Starter_Code.dir/build.make
 Project1_Starter_Code.exe: CMakeFiles/Project1_Starter_Code.dir/linklibs.rsp
 Project1_Starter_Code.exe: CMakeFiles/Project1_Starter_Code.dir/objects1.rsp
 Project1_Starter_Code.exe: CMakeFiles/Project1_Starter_Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable Project1_Starter_Code.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable Project1_Starter_Code.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Project1_Starter_Code.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -391,6 +391,6 @@ CMakeFiles/Project1_Starter_Code.dir/clean:
 .PHONY : CMakeFiles/Project1_Starter_Code.dir/clean
 
 CMakeFiles/Project1_Starter_Code.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\Project1_Starter_Code\cmake-build-debug\CMakeFiles\Project1_Starter_Code.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug" "C:\Users\jnien\Desktop\Class Notes\Fall 2022\CS 236 Discrete Structures\project1\project\cmake-build-debug\CMakeFiles\Project1_Starter_Code.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Project1_Starter_Code.dir/depend
 

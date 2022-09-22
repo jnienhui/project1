@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/Project1_Starter_Code
+# Install script for directory: C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/Project1_Starter_Code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

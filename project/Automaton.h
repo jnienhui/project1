@@ -30,7 +30,7 @@ public:
 
     // Every subclass must define this method
     virtual void S0(const std::string& input) = 0;
-
+    virtual ~Automaton() {};
     void Serr() {
         // Indicate the input was rejected
         inputRead = 0;
